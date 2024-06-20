@@ -52,3 +52,5 @@ Rozwiązanie zadań z laboratorium + projekt wykrywania tablic
 - **Etykietowanie**: Zdjęcia są oznaczone odpowiednimi etykietami znaków (0-9, A-Z).
 
 ### 3. Schemat blokowy
+
+![schemat blokowy](images/schemat_blokowy.png)
